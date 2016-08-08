@@ -1,0 +1,96 @@
+*{
+	margin:0;
+	padding:0;
+}
+a, span {
+	text-decoration:none;
+	color:gray;
+	padding: 20px;
+	font-family:serif;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+.logo{
+	width: 46%;
+}
+.espacio{
+	padding-right: 4px;
+    padding-left: 2px;
+}
+.auto{
+	margin:auto 0;
+}
+.baner{
+	background-image:url("../img/semilla.jpg");
+	height: 480px;
+}
+.lorem{
+	background-color:#F2F2F2;
+	height: 200px;
+}
+.orador{
+	background-image:url("../img/metodo.JPG");
+	height: 480px;
+}
+.defimeto{
+	background-image:url("../img/fondo.jpg");
+	background-position-x:-50px;
+	height: 480px;
+}
+.servicio{
+	display: block;
+    margin: auto;
+}
+.import{
+	margin:0 !important;
+	width: 50%;
+}
+.proyecto1{
+	background-image:url("../img/fotos/img-0352.JPG");
+	height: 480px;
+}
+.proyecto2{
+	background-image:url("../img/fotos/img-9246.JPG");
+	height: 480px;
+}
+.integrante{
+	border-radius: 50%;
+}
+.redes {
+	width: 6%
+}
+.blog{
+	background-image:url("../img/fondo2.jpg");
+	height: 600px;
+}
+.post1{
+	width: 95%;
+}
+.atras{
+	position: relative;
+    bottom: -154px;
+}
+.siguiente{
+	float:right;
+}
+.siguiente img{
+	position: relative;
+    bottom: 410px;
+}
+.social{
+	margin:0px!important;
+	border:1px solid white;
+	height:250px;
+}
+.social img{
+	height: 45px;
+}
+.convertir{
+	display:inline-block;
+}
+.mover{
+	padding-left: 25px;
+}
+a h3 h4 p :hover {
+	color:blue;
+}
